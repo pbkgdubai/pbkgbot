@@ -1,0 +1,8 @@
+telethon
+gspread
+oauth2client
+
+gspread
+oauth2client
+telethon
+flask
