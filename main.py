@@ -84,14 +84,27 @@ GROUPS = [
     "@dubai_em",
     "@poisk_dubai",
     "@dubai_nedvizhimost_arenda_biznes"
+    "@my_dubai_chat"
+    "@dubai_rr"
+    "@dubaiChat4"
+    "@dubai_netv"
+    "@dubai_chat"
+    "@prod_dubai"
+    "@dubai_oae_ru"
+    "@chat_dubai_oae"
+    "@DubaiOAE_chat1"
+    "@dubai_em"
+    "@poisk_dubai"
+    "@uae_architects"
+    "@design467"
 ]
 
 KEYWORDS = [
     "ремонт", "ремонта", "мастер", "мастера",
-    "починить", "сломалось", "поломка",
+    "починить", "дизайн", "интерьер",
     "сантехник", "электрик", "отделка",
     "renovation", "fit out", "maintenance",
-    "contractor", "repair", "отделка"
+    "contractor", "ремонтом"
 ]
 
 # -----------------------------
