@@ -28,6 +28,7 @@ def keep_alive():
 # -----------------------------
 # Google Sheets connection via Render Secret
 # -----------------------------
+print("ENV KEYS:", list(os.environ.keys()))
 SERVICE_ACCOUNT_JSON = os.environ.get("SERVICE_ACCOUNT_JSON")
 if not SERVICE_ACCOUNT_JSON:
     raise RuntimeError("SERVICE_ACCOUNT_JSON not found in environment variables!")
